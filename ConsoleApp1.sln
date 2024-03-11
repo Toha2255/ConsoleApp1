@@ -5,7 +5,12 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoTrening", "ConsoleApp1\AlgoTrening.csproj", "{15957C34-E2FA-40B2-AD5C-F318E934AD77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTest", "JenkinsTest\JenkinsTest.csproj", "{FC813B27-3D3D-45BF-9216-B491212D2BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JenkinsTest", "JenkinsTest\JenkinsTest.csproj", "{FC813B27-3D3D-45BF-9216-B491212D2BED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5A83A4BF-C0AB-49E1-8679-883DC8542450}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile.groovy = Jenkinsfile.groovy
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
