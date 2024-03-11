@@ -13,7 +13,7 @@ namespace JenkinsTest
         [Test]
         public void TestFirstAlgo()
         {
-            Assert.AreEqual(4, TrainingClass.TrainingMethod());
+            Assert.AreEqual(5, TrainingClass.TrainingMethod());
         }
     }
 }
